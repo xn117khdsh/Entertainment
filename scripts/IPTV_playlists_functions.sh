@@ -6,8 +6,8 @@ function coocaa() {
     wget "https://dl.dropboxusercontent.com/s/fhon6tzc3e20tis/%C3%A2%C2%AD%C3%AF%C2%BF%C2%BD%C3%83%C2%82%C3%AF%C2%BF%C2%BD%C3%83%C2%84" -U "$user_agent" -O ./playlists/coocaa.m3u
 }
 
-function phaptx5() {
-    wget "https://congmt.pro.vn/iptv/libra.m3u" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/phaptx5.m3u
+function libra() {
+    wget "https://congmt.pro.vn/iptv/libra.m3u" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/libra.m3u
 }
 
 function 90p-atv() {
