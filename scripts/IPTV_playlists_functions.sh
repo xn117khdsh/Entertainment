@@ -1,6 +1,6 @@
 # IPTV_playlists_functions.sh
 
-user_agent="Dalvik/2.1.0 (Linux; U; Android 10; KevinNitroG/Entertainment-Github_Action)"
+user_agent="Dalvik/2.1.0 (Linux; U; Android 10; xn117khdsh/Entertainment-Github_Action)"
 real_user_agent="Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Build/SKQ1.211001.060)"
 function coocaa() {
     wget "https://dl.dropboxusercontent.com/s/fhon6tzc3e20tis/%C3%A2%C2%AD%C3%AF%C2%BF%C2%BD%C3%83%C2%82%C3%AF%C2%BF%C2%BD%C3%83%C2%84" -U "$user_agent" -O ./playlists/coocaa.m3u
