@@ -53,9 +53,6 @@
         <tr>
             <th><b>LIST NAME</b></th>
             <th><b>ORIGINAL URL</b></th>
-            <th><b>M3U URL</b></th>
-            <th><b>NOTE</b></th>
-            <th><b>OWNER</b></th>
         </tr>
     </thead>
     <tbody>
@@ -73,9 +70,6 @@
                         alt="Dak Lak IPTV"
                 /></a>
             </td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>
@@ -97,9 +91,6 @@
                         alt="HaNoi IPTV ++"
                 /></a>
             </td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td>
@@ -115,9 +106,6 @@
                         alt="Viet Nga IPTV"
                 /></a>
             </td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
