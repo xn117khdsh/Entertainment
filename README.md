@@ -1,8 +1,7 @@
 # ENTERTAINMENT ![GitHub repo size](https://img.shields.io/github/repo-size/xn117khdsh/Entertainment?style=for-the-badge) ![Auto Update M3U playlists](https://img.shields.io/github/actions/workflow/status/xn117khdsh/Entertainment/update_IPTV_playlists.yml?style=for-the-badge&label=Auto%20Update%20M3U%20Playlists)
 
--   Đây là kiểu note lại cá nhân nhưng được public, không hẳn dùng để share
+-   Huge thanks to KevinNitroG for the great repo on Github!
 -   Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐
--   Nếu bạn là chủ của các nội dung dưới đây và có vấn đề về việc chia sẻ _(chỉnh sửa thông tin, update, yêu cầu xoá...)_ Thì hãy tạo Issue ở repo này. Xin cảm ơn vì đã chia sẻ 💖
 
 # TABLE OF CONTENTS
 
@@ -27,8 +26,7 @@
 # 📺 M3U
 
 -   Tổng hợp playlist IPTV của người khác, ngon ghẻ 🤨
--   Có những list dành cho từng nhà mạng, lên mạng search nhé
--   Tự động update file `.m3u` cho 1 số list cột **M3U URL** vào từ `03:00 AM` hoặc sẽ chạy khi có ai đó star repo
+-   Tự động update file `.m3u` cho 1 số list cột **M3U URL** với tần suất ~20'/lần
     > Các link **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc _(Ott player, VLC,...)_
 -   Một số list không chạy thì có thể chuyển đổi domain qua lại thử vì đa số dùng các shorten link đấy
     -   `http://gg.gg`
@@ -36,6 +34,7 @@
         > Tham gia để biết thêm
     -   `http://bit.ly`
     -   `https://s.id`
+    -   `https://bom.so`
 
 > **Note**
 >
