@@ -147,7 +147,14 @@
                         alt="4K UHD"
                 /></a>
             </td>
-            <td></td>
+            <td>
+                <a
+                    href="https://github.com/kgasaz/4kuhd/raw/master/sports-channels-4k.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/4K_UHD-m3u-?style=for-the-badge"
+                        alt="4K UHD"
+                /></a>
+            </td>
             <td>kgasaz</td>
         </tr>     
         <tr>
