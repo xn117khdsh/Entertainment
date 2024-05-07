@@ -149,9 +149,9 @@
             </td>
             <td>
                 <a
-                    href="https://github.com/kgasaz/4kuhd/raw/master/sports-channels-4k.m3u"
+                    href="https://7pal.short.gy/sports4kuhd"
                     ><img
-                        src="https://img.shields.io/badge/4K_UHD-m3u-?style=for-the-badge"
+                        src="https://img.shields.io/badge/4K_UHD-m3u-red?style=for-the-badge"
                         alt="4K UHD"
                 /></a>
             </td>
