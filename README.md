@@ -1,6 +1,6 @@
 # ENTERTAINMENT ![GitHub repo size](https://img.shields.io/github/repo-size/xn117khdsh/Entertainment?style=for-the-badge) ![Auto Update M3U playlists](https://img.shields.io/github/actions/workflow/status/xn117khdsh/Entertainment/update_IPTV_playlists.yml?style=for-the-badge&label=Auto%20Update%20M3U%20Playlists)
 
--   Huge thanks to KevinNitroG for the great repo on Github!
+-   Huge shoutout to the original repository maker, KevinNitroG!
 -   Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐
 
 # TABLE OF CONTENTS
@@ -38,7 +38,8 @@
 
 > **Note**
 >
-> Có những list có kênh K+ yêu cầu app giải mã được DRM: Tivimate _(Chính thống hoặc [root patch](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate))_, OTT Navigator
+> <s> Có những list có kênh K+ yêu cầu app giải mã được DRM: Tivimate _(Chính thống hoặc [root patch](https://github.com/KevinNitroG/Entertainment/releases/tag/TiviMate))_, OTT Navigator</s>
+> No K+ m3u links here!
 
 > **Warning**
 >
