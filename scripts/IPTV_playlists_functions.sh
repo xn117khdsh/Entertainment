@@ -11,6 +11,6 @@ function libra() {
 }
 
 function 90p-atv() {
-    wget "https://hoaivnpt.duckdns.org/live-football/live-football.php" -U "$user_agent" -O ./playlists/90p-atv.m3u
+    wget "https://hoaivnpt.duckdns.org/live-football/live-football.php" -U "$user_agent" -O ./playlists/90p-atv.m3u --no-check-certificate
 }
 
