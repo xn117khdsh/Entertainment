@@ -19,7 +19,7 @@ rm -rf playlists
 mkdir playlists
 
 devider_length=30
-functions=("coocaa" "libra" "90p-atv")
+functions=("coocaa" "libra" "90p-atv" "mohdtv")
 current_folder_size=0
 
 echo "UPDATE FOR: ${#functions[@]} playlist(s)"
