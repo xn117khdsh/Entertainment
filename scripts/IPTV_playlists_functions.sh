@@ -14,3 +14,6 @@ function 90p-atv() {
     wget "https://hoaivnpt.duckdns.org/live-football/live-football.php" -U "$user_agent" -O ./playlists/90p-atv.m3u --no-check-certificate
 }
 
+function mohdtv() {
+    wget "http://mohdtv.com:8880/get.php?username=ALLChannelsf0ceeeeefb71&password=70617778&type=m3u_plus" -U "$user_agent" -O ./playlists/mohdtv.m3u
+}
