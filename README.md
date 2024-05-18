@@ -26,7 +26,7 @@
 # 📺 M3U
 
 -   Tổng hợp playlist IPTV của người khác, ngon ghẻ 🤨
--   Tự động update file `.m3u` cho 1 số list cột **M3U URL** với tần suất ~20'/lần
+-   Tự động update file `.m3u` cho 1 số list cột **M3U URL** với tần suất ~15'/lần
     > Các link **M3U URL** có thể dùng trực tiếp với các app không thể add link gốc _(Ott player, VLC,...)_
 -   Một số list không chạy thì có thể chuyển đổi domain qua lại thử vì đa số dùng các shorten link đấy
     -   `http://gg.gg`
@@ -54,6 +54,8 @@
         <tr>
             <th><b>LIST NAME</b></th>
             <th><b>ORIGINAL URL</b></th>
+            <th><b>M3U URL</b></th>
+            <th><b>OWNER</b></th>
         </tr>
     </thead>
     <tbody>
@@ -71,6 +73,8 @@
                         alt="Dak Lak IPTV"
                 /></a>
             </td>
+            <td></td>
+            <td>luongtamlong</td>
         </tr>
         <tr>
             <td>
@@ -92,6 +96,8 @@
                         alt="HaNoi IPTV ++"
                 /></a>
             </td>
+            <td></td>
+            <td>hanoiiptv</td>
         </tr>
         <tr>
             <td>
@@ -107,6 +113,26 @@
                         alt="Viet Nga IPTV"
                 /></a>
             </td>
+            <td></td>
+            <td>phuhdtv</td>
+        </tr>
+        <tr>
+            <td><b>coocaa</b></td>
+            <td>
+                <a href="http://gg.gg/coocaa"
+                    ><img
+                        src="https://img.shields.io/badge/coocaa-orange?style=for-the-badge"
+                        alt="coocaa"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/coocaa.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge"
+                        alt="coocaa m3u"
+                /></a>
+            </td>
+            <td>Henry Vo</td>
         </tr>
     </tbody>
 </table>
@@ -153,14 +179,14 @@
             <td>
                 <a href="https://bit.ly/90p-atv"
                     ><img
-                        src="https://img.shields.io/badge/90p_atv-orange?style=for-the-badge"
+                        src="https://img.shields.io/badge/90p_atv-green?style=for-the-badge"
                         alt="90p-atv"
                 /></a>
             </td>
             <td>
                 <a href="../../raw/m3u/playlists/90p-atv.m3u"
                     ><img
-                        src="https://img.shields.io/badge/90p_atv-m3u-orange?style=for-the-badge"
+                        src="https://img.shields.io/badge/90p_atv-m3u-green?style=for-the-badge"
                         alt="90p-atv m3u"
                 /></a>
             </td>
@@ -178,6 +204,7 @@ Các list này được gộp từ 1 số list khác để tạo ra list dùng o
         <tr>
             <th><strong>LIST NAME</strong></th>
             <th><strong>ORIGINAL URL</strong></th>
+            <th><strong>M3U URL</strong></th>
         </tr>
     </thead>
     <tbody>
@@ -189,10 +216,38 @@ Các list này được gộp từ 1 số list khác để tạo ra list dùng o
                 >
             </td>
             <td>
-                <a href="congmt.pro.vn/iptv/libra.m3u"
+                <a href="https://congmt.pro.vn/iptv/libra.m3u"
                     ><img
-                        src="https://img.shields.io/badge/libra-orange?style=for-the-badge"
+                        src="https://img.shields.io/badge/libra-purple?style=for-the-badge"
                         alt="Libra"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/90p-atv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/libra-m3u-purple?style=for-the-badge"
+                        alt="libra m3u"
+                /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a
+                    ><b>mohdtv</b></a
+                >
+            </td>
+            <td>
+                <a href="http://mohdtv.com:8880/get.php?username=ALLChannelsf0ceeeeefb71&password=70617778&type=m3u_plus"
+                    ><img
+                        src="https://img.shields.io/badge/mohdtv-blue?style=for-the-badge"
+                        alt="mohdtv"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/mohdtv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/mohdtv-m3u-blue?style=for-the-badge"
+                        alt="mohdtv m3u"
                 /></a>
             </td>
         </tr>
