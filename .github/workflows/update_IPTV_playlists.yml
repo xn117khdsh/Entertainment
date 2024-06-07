@@ -8,8 +8,7 @@ on:
     branches: ["main", "dev"]
     paths: "scripts/IPTV_playlists_functions.sh"
   schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch:
+    - cron: "*/3 * * * *"
 
 concurrency:
   group: ${{ github.workflow }}
