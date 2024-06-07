@@ -126,11 +126,6 @@
                 /></a>
             </td>
             <td>
-                <a href="../../raw/m3u/playlists/coocaa.m3u"
-                    ><img
-                        src="https://img.shields.io/badge/coocaa-m3u-orange?style=for-the-badge"
-                        alt="coocaa m3u"
-                /></a>
             </td>
             <td>Henry Vo</td>
         </tr>
@@ -204,7 +199,6 @@ Các list này được gộp từ 1 số list khác để tạo ra list dùng o
         <tr>
             <th><strong>LIST NAME</strong></th>
             <th><strong>ORIGINAL URL</strong></th>
-            <th><strong>M3U URL</strong></th>
         </tr>
     </thead>
     <tbody>
@@ -222,13 +216,6 @@ Các list này được gộp từ 1 số list khác để tạo ra list dùng o
                         alt="Libra"
                 /></a>
             </td>
-            <td>
-                <a href="../../raw/m3u/playlists/90p-atv.m3u"
-                    ><img
-                        src="https://img.shields.io/badge/libra-m3u-purple?style=for-the-badge"
-                        alt="libra m3u"
-                /></a>
-            </td>
         </tr>
         <tr>
             <td>
@@ -241,13 +228,6 @@ Các list này được gộp từ 1 số list khác để tạo ra list dùng o
                     ><img
                         src="https://img.shields.io/badge/mohdtv-blue?style=for-the-badge"
                         alt="mohdtv"
-                /></a>
-            </td>
-            <td>
-                <a href="../../raw/m3u/playlists/mohdtv.m3u"
-                    ><img
-                        src="https://img.shields.io/badge/mohdtv-m3u-blue?style=for-the-badge"
-                        alt="mohdtv m3u"
                 /></a>
             </td>
         </tr>
