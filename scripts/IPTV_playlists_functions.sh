@@ -19,5 +19,5 @@ function mohdtv() {
 }
 
 function tviptv() {
-    wget "https://tv.volam.pro/playlist/" -U "$user_agent" -O ./playlists/mohdtv.m3u
+    wget "https://tv.volam.pro/playlist/" -U "$user_agent" -O ./playlists/tviptv.m3u
 }
