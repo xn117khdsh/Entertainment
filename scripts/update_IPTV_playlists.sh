@@ -19,7 +19,7 @@ rm -rf playlists
 mkdir playlists
 
 devider_length=30
-functions=("90p-atv" "tviptv")
+functions=("tviptv")
 current_folder_size=0
 
 echo "UPDATE FOR: ${#functions[@]} playlist(s)"
