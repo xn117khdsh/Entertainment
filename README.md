@@ -129,6 +129,24 @@
             </td>
             <td>Henry Vo</td>
         </tr>
+        <tr>
+            <td><b>tviptv</b></td>
+            <td>
+                <a href="https://tv.volam.pro/playlist/"
+                    ><img
+                        src="https://img.shields.io/badge/tviptv-766d31?style=for-the-badge"
+                        alt="coocaa"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/tviptv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/tviptv-m3u-766d31?style=for-the-badge"
+                        alt="tviptv"
+                /></a>
+            </td>
+            <td>Henry Vo</td>
+        </tr>
     </tbody>
 </table>
 
@@ -169,7 +187,7 @@
         </tr>     
         <tr>
             <td>
-                <a href="https://bit.ly/90p-atv"><b>90p-atv</b></a>
+                <b>90p-atv</b>
             </td>
             <td>
                 <a href="https://bit.ly/90p-atv"
@@ -179,11 +197,10 @@
                 /></a>
             </td>
             <td>
-                <a href="../../raw/m3u/playlists/90p-atv.m3u"
-                    ><img
-                        src="https://img.shields.io/badge/90p_atv-m3u-green?style=for-the-badge"
-                        alt="90p-atv m3u"
-                /></a>
+                <img
+                    src="https://img.shields.io/badge/not_working-red?style=for-the-badge"
+                    alt="90p-atv m3u"
+                />
             </td>
             <td>Hoài VNPT</td>
         </tr>
