@@ -18,6 +18,6 @@ function mohdtv() {
     wget "http://mohdtv.com:8880/get.php?username=ALLChannelsf0ceeeeefb71&password=70617778&type=m3u_plus" -U "$user_agent" -O ./playlists/mohdtv.m3u
 }
 
-function tviptv() {
+function simple() {
     wget "https://tv.volam.pro/playlist/" -U "$user_agent" -O ./playlists/tviptv.m3u
 }
