@@ -59,6 +59,22 @@
         </tr>
     </thead>
     <tbody>
+         <tr>
+            <td>
+                <a href="https://github.com/Khanggne"><b>iptvkhangg</b></a>
+            </td>
+            <td>
+                <a href="https://khanggtivi.xyz/iptv"
+                    ><img
+                        src="https://img.shields.io/badge/iptv%20khangg-red?style=for-the-badge"
+                        alt="IPTV Khangg"
+                /></a>
+            </td>
+            <td>
+                <!-- <a href="../../raw/m3u/playlists/iptvkhangg.m3u"><img src="https://img.shields.io/badge/iptv%20khangg-m3u-red?style=for-the-badge" alt="IPTV Khangg m3u"></a> -->
+            </td>
+            <td>Khangg</td>
+        </tr>
         <tr>
             <td>
                 <a href="https://github.com/luongtamlong/Dak-Lak-IPTV"
@@ -188,7 +204,11 @@
                 /></a>
             </td>
             <td>
-                <!-- [![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u) -->
+                <a href="../../raw/m3u/playlists/sn-thapcam.m3u">
+                    <img
+                        src="https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge"
+                        alt="SN-thapcam"
+                />
             </td>
             <td>dongtrandvb</td>
         </tr>
@@ -202,7 +222,11 @@
                 /></a>
             </td>
             <td>
-                <!-- [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u) -->
+                <a href="../../raw/m3u/playlists/sn-90phut.m3u">
+                    <img
+                        src="https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge"
+                        alt="SN-90phut"
+                />
             </td>
             <td>dongtrandvb</td>
         </tr>
@@ -215,8 +239,12 @@
                         alt="SN-cakhia"
                 /></a>
             </td>
-            <td>
-                <!-- [![SN-cakhia m3u](https://img.shields.io/badge/SN%20cakhia-m3u-purple?style=for-the-badge)](../../raw/m3u/playlists/sn-cakhia.m3u) -->
+             <td>
+                <a href="../../raw/m3u/playlists/sn-cakhia.m3u">
+                    <img
+                        src="https://img.shields.io/badge/SN%20cakhia-m3u-purple?style=for-the-badge"
+                        alt="SN-cakhia"
+                />
             </td>
             <td>dongtrandvb</td>
         </tr>
@@ -229,8 +257,12 @@
                         alt="SN-gavang"
                 /></a>
             </td>
-            <td>
-                <!-- [![SN-saoke m3u](https://img.shields.io/badge/SN%20saoke-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/sn-saoke.m3u) -->
+             <td>
+                <a href="../../raw/m3u/playlists/sn-gavang.m3u">
+                    <img
+                        src="https://img.shields.io/badge/SN%20gavang-m3u-green?style=for-the-badge"
+                        alt="SN-gavang"
+                />
             </td>
             <td>dongtrandvb</td>
         </tr>
@@ -244,7 +276,11 @@
                 /></a>
             </td>
             <td>
-                <!-- [![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u) -->
+                <a href="../../raw/m3u/playlists/sn-socolive.m3u">
+                    <img
+                        src="https://img.shields.io/badge/SN%20socolive-m3u-blue?style=for-the-badge"
+                        alt="SN-socolive"
+                />
             </td>
             <td>dongtrandvb</td>
         </tr>
@@ -258,7 +294,11 @@
                 /></a>
             </td>
             <td>
-                <!-- [![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u) -->
+                <a href="../../raw/m3u/playlists/sn-luongson.m3u">
+                    <img
+                        src="https://img.shields.io/badge/SN%20sluongson-m3u-blue?style=for-the-badge"
+                        alt="SN-luongson"
+                />
             </td>
             <td>dongtrandvb</td>
         </tr>
