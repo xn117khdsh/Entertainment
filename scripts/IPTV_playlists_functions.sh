@@ -11,13 +11,18 @@ function libra() {
 }
 
 function 90p-atv() {
-    wget "https://hoaivnpt.duckdns.org/live-football/live-football.php" -U "$user_agent" -O ./playlists/90p-atv.m3u --no-check-certificate
+    wget "http://freehd.me/playlistTL2.php" -U "$user_agent" -O ./playlists/90p-atv.m3u
+    wget "http://freehd.me/playlistTL.php" -U "$user_agent" -O ./playlists/90p-atv-lite.m3u
 }
 
-function mohdtv() {
-    wget "http://mohdtv.com:8880/get.php?username=ALLChannelsf0ceeeeefb71&password=70617778&type=m3u_plus" -U "$user_agent" -O ./playlists/mohdtv.m3u
+function sn() {
+    wget "http://sharing.gotdns.ch:8091/thapcam.php" -U "$user_agent" -O ./playlists/sn-thapcam.m3u
+    wget "http://sharing.gotdns.ch:8091/90phut.php" -U "$user_agent" -O ./playlists/sn-90phut.m3u
+    wget "http://sharing.gotdns.ch:8091/cakhia.php" -U "$user_agent" -O ./playlists/sn-cakhia.m3u
+    wget "http://sharing.gotdns.ch:8091/gavang.php" -U "$user_agent" -O ./playlists/sn-gavang.m3u
+    wget "http://sharing.gotdns.ch:8091/socolive.php" -U "$user_agent" -O ./playlists/sn-socolive.m3u
+    wget "http://sharing.gotdns.ch:8091/luongsontv.php" -U "$user_agent" -O ./playlists/sn-luongson.m3u
 }
-
 function simple() {
-    wget "https://tv.volam.pro/playlist/" -U "$user_agent" -O ./playlists/tviptv.m3u
+    wget "https://dl.dropboxusercontent.com/s/7rj3pwr5b48ce3u/vmttv.txt?dl=0" -U "$user_agent" -O ./playlists/tviptv.m3u
 }
