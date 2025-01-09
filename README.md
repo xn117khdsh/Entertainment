@@ -1,4 +1,4 @@
-# ENTERTAINMENT ![GitHub repo size](https://img.shields.io/github/repo-size/xn117khdsh/Entertainment?style=for-the-badge) ![Auto Update M3U playlists](https://img.shields.io/github/actions/workflow/status/xn117khdsh/Entertainment/update_IPTV_playlists.yml?style=for-the-badge&label=Auto%20Update%20M3U%20Playlists)
+# ENTERTAINMENT ![GitHub repo size](https://img.shields.io/github/repo-size/xn117khdsh/Entertainment?style=for-the-badge) ![Auto Update M3U playlists](https://img.shields.io/github/actions/workflow/status/xn117khdsh/Entertainment/update_list.yml?style=for-the-badge&label=Auto%20Update%20M3U%20Playlists)
 
 -   Huge shoutout to the original repository maker, KevinNitroG!
 -   Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐
@@ -132,7 +132,7 @@
         <tr>
             <td><b>tviptv</b></td>
             <td>
-                <a href="https://tv.volam.pro/playlist/"
+                <a href="https://tth.vn/vmttv"
                     ><img
                         src="https://img.shields.io/badge/tviptv-766d31?style=for-the-badge"
                         alt="coocaa"
@@ -145,7 +145,7 @@
                         alt="tviptv"
                 /></a>
             </td>
-            <td>Henry Vo</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -175,34 +175,134 @@
                         alt="4K UHD"
                 /></a>
             </td>
+            <td></td>
+            <td>kgasaz</td>
+        </tr>
+        <tr>
+            <td>SN-thapcam</td>
             <td>
-                <a
-                    href="https://7pal.short.gy/sports4kuhd"
+                <a href="http://sharing.gotdns.ch:8091/thapcam.php"
                     ><img
-                        src="https://img.shields.io/badge/4K_UHD-m3u-red?style=for-the-badge"
-                        alt="4K UHD"
+                        src="https://img.shields.io/badge/SN%20thapcam-orange?style=for-the-badge"
+                        alt="SN-thapcam"
                 /></a>
             </td>
-            <td>kgasaz</td>
-        </tr>     
-        <tr>
             <td>
-                <b>90p-atv</b>
+                <!-- [![SN-thapcam m3u](https://img.shields.io/badge/SN%20thapcam-m3u-orange?style=for-the-badge)](../../raw/m3u/playlists/sn-thapcam.m3u) -->
+            </td>
+            <td>dongtrandvb</td>
+        </tr>
+        <tr>
+            <td>SN-90phut</td>
+            <td>
+                <a href="http://sharing.gotdns.ch:8091/90phut.php"
+                    ><img
+                        src="https://img.shields.io/badge/SN%2090phut-yellow?style=for-the-badge"
+                        alt="SN-90phut"
+                /></a>
             </td>
             <td>
-                <a href="https://bit.ly/90p-atv"
+                <!-- [![SN-90phut m3u](https://img.shields.io/badge/SN%2090phut-m3u-yellow?style=for-the-badge)](../../raw/m3u/playlists/sn-90phut.m3u) -->
+            </td>
+            <td>dongtrandvb</td>
+        </tr>
+        <tr>
+            <td>SN-cakhia</td>
+            <td>
+                <a href="http://sharing.gotdns.ch:8091/cakhia.php"
                     ><img
-                        src="https://img.shields.io/badge/90p_atv-green?style=for-the-badge"
+                        src="https://img.shields.io/badge/SN%20cakhia-purple?style=for-the-badge"
+                        alt="SN-cakhia"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-cakhia m3u](https://img.shields.io/badge/SN%20cakhia-m3u-purple?style=for-the-badge)](../../raw/m3u/playlists/sn-cakhia.m3u) -->
+            </td>
+            <td>dongtrandvb</td>
+        </tr>
+        <tr>
+            <td>SN-gavang</td>
+            <td>
+                <a href="http://sharing.gotdns.ch:8091/gavang.php"
+                    ><img
+                        src="https://img.shields.io/badge/SN%20gavang-green?style=for-the-badge"
+                        alt="SN-gavang"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-saoke m3u](https://img.shields.io/badge/SN%20saoke-m3u-green?style=for-the-badge)](../../raw/m3u/playlists/sn-saoke.m3u) -->
+            </td>
+            <td>dongtrandvb</td>
+        </tr>
+        <tr>
+            <td>SN-socolive</td>
+            <td>
+                <a href="http://sharing.gotdns.ch:8091/socolive.php"
+                    ><img
+                        src="https://img.shields.io/badge/SN%20socolive-blue?style=for-the-badge"
+                        alt="SN-socolive"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u) -->
+            </td>
+            <td>dongtrandvb</td>
+        </tr>
+        <tr>
+            <td>SN-luongsontv</td>
+            <td>
+                <a href="http://sharing.gotdns.ch:8091/luongsontv.php"
+                    ><img
+                        src="https://img.shields.io/badge/SN%20luongson-blue?style=for-the-badge"
+                        alt="SN-luongson"
+                /></a>
+            </td>
+            <td>
+                <!-- [![SN-thethao m3u](https://img.shields.io/badge/SN%20thethao-m3u-blue?style=for-the-badge)](../../raw/m3u/playlists/sn-thethao.m3u) -->
+            </td>
+            <td>dongtrandvb</td>
+        </tr>
+        <tr>
+            <td>
+                <a><b>90p-atv</b></a>
+            </td>
+            <td>
+                <a href="http://freehd.me/playlistTL2.php"
+                    ><img
+                        src="https://img.shields.io/badge/90p_atv-orange?style=for-the-badge"
                         alt="90p-atv"
                 /></a>
             </td>
             <td>
-                <img
-                    src="https://img.shields.io/badge/not_working-red?style=for-the-badge"
-                    alt="90p-atv m3u"
-                />
+                <a href="../../raw/m3u/playlists/90p-atv.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/90p_atv-m3u-orange?style=for-the-badge"
+                        alt="90p-atv m3u"
+                /></a>
             </td>
-            <td>Hoài VNPT</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <a><b>90p-atv-lite</b></a>
+            </td>
+             <td>
+                <a href="http://freehd.me/playlistTL.php"
+                    ><img
+                        src="https://img.shields.io/badge/90p_atv-orange?style=for-the-badge"
+                        alt="90p-atv-lite"
+                /></a>
+            </td>
+            <td>
+                <a href="../../raw/m3u/playlists/90p-atv-lite.m3u"
+                    ><img
+                        src="https://img.shields.io/badge/90p_atv_lite-m3u-orange?style=for-the-badge"
+                        alt="90p-atv-lite m3u"
+                /></a>
+            </td>
+            <td>
+                <a></a>
+            </td>
         </tr>
     </tbody>
 </table>
