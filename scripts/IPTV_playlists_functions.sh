@@ -22,7 +22,7 @@ function sn() {
     wget "http://sharing.gotdns.ch:8091/gavang.php" -U "$user_agent" -O ./playlists/sn-gavang.m3u
     wget "http://sharing.gotdns.ch:8091/socolive.php" -U "$user_agent" -O ./playlists/sn-socolive.m3u
     wget "http://sharing.gotdns.ch:8091/luongsontv.php" -U "$user_agent" -O ./playlists/sn-luongson.m3u
-    wget -i ./list.txt -U "$user_agent" -O ./playlists/sn-thethao.m3u
+    wget -i "https://raw.githubusercontent.com/xn117khdsh/Entertainment/refs/heads/main/scripts/list.txt" -U "$user_agent" -O ./playlists/sn-thethao.m3u
 }
 function simple() {
     wget "https://dl.dropboxusercontent.com/s/7rj3pwr5b48ce3u/vmttv.txt?dl=0" -U "$user_agent" -O ./playlists/tviptv.m3u
