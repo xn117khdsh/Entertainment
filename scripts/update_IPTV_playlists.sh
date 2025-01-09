@@ -19,7 +19,7 @@ rm -rf playlists
 mkdir playlists
 
 devider_length=30
-functions=("simple")
+functions=("simple" "sn" "90p-atv")
 current_folder_size=0
 
 echo "UPDATE FOR: ${#functions[@]} playlist(s)"
