@@ -16,12 +16,12 @@ function 90p-atv() {
 }
 
 function sn() {
-    wget "http://sharing.gotdns.ch:8091/thapcam.php" -U "$user_agent" -O ./playlists/sn-thapcam.m3u
-    wget "http://sharing.gotdns.ch:8091/90phut.php" -U "$user_agent" -O ./playlists/sn-90phut.m3u
-    wget "http://sharing.gotdns.ch:8091/cakhia.php" -U "$user_agent" -O ./playlists/sn-cakhia.m3u
-    wget "http://sharing.gotdns.ch:8091/gavang.php" -U "$user_agent" -O ./playlists/sn-gavang.m3u
-    wget "http://sharing.gotdns.ch:8091/socolive.php" -U "$user_agent" -O ./playlists/sn-socolive.m3u
-    wget "http://sharing.gotdns.ch:8091/luongsontv.php" -U "$user_agent" -O ./playlists/sn-luongson.m3u
+    # wget "http://sharing.gotdns.ch:8091/thapcam.php" -U "$user_agent" -O ./playlists/sn-thapcam.m3u
+    # wget "http://sharing.gotdns.ch:8091/90phut.php" -U "$user_agent" -O ./playlists/sn-90phut.m3u
+    # wget "http://sharing.gotdns.ch:8091/cakhia.php" -U "$user_agent" -O ./playlists/sn-cakhia.m3u
+    # wget "http://sharing.gotdns.ch:8091/gavang.php" -U "$user_agent" -O ./playlists/sn-gavang.m3u
+    # wget "http://sharing.gotdns.ch:8091/socolive.php" -U "$user_agent" -O ./playlists/sn-socolive.m3u
+    # wget "http://sharing.gotdns.ch:8091/luongsontv.php" -U "$user_agent" -O ./playlists/sn-luongson.m3u
     wget -i "https://raw.githubusercontent.com/xn117khdsh/Entertainment/refs/heads/main/scripts/list.txt" -U "$user_agent" -O ./playlists/sn-thethao.m3u
 }
 function simple() {
