@@ -1,4 +1,3 @@
 http://sharing.gotdns.ch:8091/socolive.php
-http://sharing.gotdns.ch:8091/90phut.php
-http://sharing.gotdns.ch:8091/gavang.php
+http://sharing.gotdns.ch:8091/cakhia.php
 http://sharing.gotdns.ch:8091/luongsontv.php
