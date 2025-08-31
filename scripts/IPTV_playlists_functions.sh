@@ -8,5 +8,5 @@ function sn() {
 }
 
 function simple() {
-    wget "https://xem.hoiquan.click/" -U "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" -O ./playlists/simple.m3u
+    wget "https://xem.hoiquan.click" -O ./playlists/simple.m3u
 }
