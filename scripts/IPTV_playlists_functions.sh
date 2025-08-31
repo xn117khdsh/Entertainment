@@ -8,5 +8,5 @@ function sn() {
 }
 
 function simple() {
-    wget "https://xem.hoiquan.click/" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/simple.m3u
+    wget "https://xem.hoiquan.click/" -U "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" -O ./playlists/simple.m3u
 }
