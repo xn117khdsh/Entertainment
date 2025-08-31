@@ -8,5 +8,5 @@ function sn() {
 }
 
 function simple() {
-    wget "https://xem.hoiquan.click" -O ./playlists/simple.m3u
+    wget "http://phaptx5.x10.mx/phapferrariVIP2.php" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/phaptx5.m3u
 }
