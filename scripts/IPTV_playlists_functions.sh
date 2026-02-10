@@ -13,5 +13,5 @@ function simple() {
 }
 
 function onetv() {
-    wget "https://freem3u.xyz/r/ucoromdvr" -U "$user_agent" -O ./playlists/onetv.m3u
+    wget "https://freem3u.xyz/r/uvbivvg" -U "$user_agent" -O ./playlists/onetv.m3u
 }
