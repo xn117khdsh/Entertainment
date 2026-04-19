@@ -11,7 +11,3 @@ function sn() {
 function simple() {
     wget "https://1.org.vn/dad" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/simple.m3u
 }
-
-function onetv() {
-    wget "https://freem3u.xyz/r/kjuhrmodg" -U "$user_agent" -O ./playlists/onetv.m3u
-}
