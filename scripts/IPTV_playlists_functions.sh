@@ -5,9 +5,9 @@ real_user_agent="Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Build/SKQ1.211001
 
 function sn() {
    # wget -i "https://freem3u.xyz/r/smavruuhg" -U "$user_agent" -O ./playlists/sn-thethao.m3u
-   wget "https://freem3u.xyz/r/wedsjrhdr" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/sn-thethao.m3u
+   wget "https://1.org.vn/Uianif" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/sn-thethao.m3u
 }
 
 function simple() {
-    wget "https://1.org.vn/dad" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/simple.m3u
+    wget "https://1.org.vn/ueKPgm" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/simple.m3u
 }
