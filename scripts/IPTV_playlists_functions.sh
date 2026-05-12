@@ -9,5 +9,5 @@ function sn() {
 }
 
 function simple() {
-    wget "https://1.org.vn/ueKPgm" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/simple.m3u
+    wget "https://iptv-trmas-d6hy.onrender.com/trams.m3u?token=cAUveJocGFCowULRzH8hNyul2jrFTXeUSxe-V_J1_LM=" -U "OTT Navigator/1.6.9.4 (Linux;Android 12; en; 10i5hoq)" -O ./playlists/simple.m3u
 }
