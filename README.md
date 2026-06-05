@@ -2,7 +2,9 @@
 
 -   Huge shoutout to the original repository maker, KevinNitroG!
 -   Xin đừng chia sẻ lên cộng đồng để bảo toàn tính mạng cho các list IPTV cũng như repo này 😐
-
+-   Private use only!
+-   Private use only!
+-   Private use only!
 
 > **Warning**
 >
