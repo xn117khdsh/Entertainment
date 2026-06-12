@@ -4,11 +4,7 @@ user_agent="Dalvik/2.1.0 (Linux; U; Android 10; xn117khdsh/Entertainment-Github_
 real_user_agent="Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Build/SKQ1.211001.060)"
 
 function sn() {
-    {
-        curl -L -s "https://qqd10164-futtv.hf.space/playlist.m3u"
-        echo
-        curl -L -s "https://qqd10164-fletcher.hf.space/playlist.m3u"
-    } > ./playlists/sn-thethao.m3u
+    wget -i "https://raw.githubusercontent.com/xn117khdsh/Entertainment/refs/heads/main/scripts/list.txt" -U "$user_agent" -O ./playlists/sn-thethao.m3u
 }
 
 #function simple() {
