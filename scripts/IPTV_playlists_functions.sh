@@ -5,7 +5,7 @@ real_user_agent="Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Build/SKQ1.211001
 
 function sn() {
     wget -i "https://raw.githubusercontent.com/xn117khdsh/Entertainment/refs/heads/main/scripts/list.txt" -U "$user_agent" -O ./playlists/sn-thethao.m3u
-    sed -i "1{/^#EXTM3U$/!i\#EXTM3U} 2,${/^#EXTM3U$/d}" playlist.m3u
+    sed -i "1{/^#EXTM3U$/!i\#EXTM3U}2,${/^#EXTM3U$/d}" playlist.m3u
 }
 
 #function simple() {
